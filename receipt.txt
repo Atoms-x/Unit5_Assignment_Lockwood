@@ -1,0 +1,27 @@
+				 DR.T'S HOUSE OF GRUB
+				Fort Worth, Texas 76102
+				    (817) 515-8223
+----------------------------------------
+				Sat Apr 25 05:44:21 2020
+
+					 Ticket Number: 1
+========================================
+QTY	 DESC 	      Price 				Amount
+========================================
+1		Green Tea      3.00					 3.00      
+1		Milk           4.00					 4.00      
+1		Ramen          5.00					 5.00      
+2		Gyoza          6.00					 12.00     
+1		Snow Crab      8.00					 8.00      
+
+
+															----------
+												Sub Total	 32.00
+												Sales Tax	  2.64
+															----------
+												Total   	 34.64
+												Tip     	  4.80
+												Total Due	 39.44
+
+
+THANK YOU FOR EATING DR.T'S HOUSE OF GRUB
