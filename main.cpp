@@ -3,6 +3,7 @@
   24 APRIL 2020
   IDE: Repl.it 
   Program:  Unit 5 Assignment Menu/Receipt program
+  Learning Point: To create class, use vectors, formatting, and other additional functions
   https://repl.it/@ChetLockwood/Unit5AssignmentLockwood
 */
 
