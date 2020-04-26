@@ -2,28 +2,28 @@
 				Fort Worth, Texas 76102
 				    (817) 515-8223
 ----------------------------------------
-				Sat Apr 25 18:19:57 2020
+				Sun Apr 26 01:45:12 2020
 
 					 Ticket Number: 1
 ========================================
 QTY	 DESC 	      Price 				Amount
 ========================================
-2		Green Tea      3.00					 6.00      
-2		Milk           4.00					 8.00      
+1		Green Tea      3.00					 3.00      
+1		Milk           4.00					 4.00      
 1		Ramen          5.00					 5.00      
-4		Gyoza          6.00					 24.00     
-3		CF Steak       7.00					 21.00     
-3		Snow Crab      8.00					 24.00     
-3		Fried Shrimp   9.00					 27.00     
+1		Gyoza          6.00					 6.00      
+1		CF Steak       7.00					 7.00      
+1		Snow Crab      8.00					 8.00      
+1		Fried Shrimp   9.00					 9.00      
 
 
 															----------
-												Sub Total	 115.00
-												Sales Tax	  9.49
+												Sub Total	 42.00
+												Sales Tax	  3.47
 															----------
-												Total   	 124.49
-												Tip     	 23.00
-												Total Due	 147.49
+												Total   	 45.47
+												Tip     	  8.40
+												Total Due	 53.87
 
 
 THANK YOU FOR EATING DR.T'S HOUSE OF GRUB

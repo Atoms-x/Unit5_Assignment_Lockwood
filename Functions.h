@@ -273,18 +273,14 @@ void acceptOrder(vector<MenuItem> &m)
             cout << "\nItem count must be > 0 to remove: " << m[i].getName() << endl;
         }
       }
-      else if(
-                option != m[i].getAddLetter() && 
-                option != m[i].getRemoveLetter() &&
-                option != 'x' &&
-                option != 'X' 
-            ) //test for all of my valid inputs
-            {
-              if(i == 0)
-              {
-                cout << "\nInvalid input (" << option << "). Please try again." << endl; 
-              }  
-            }
+      //test for all of my valid inputs
+      else if(option != m[i].getAddLetter() && option != m[i].getRemoveLetter() && option != 'x' && option != 'X') 
+      {
+        if(i == 0)
+        {
+          cout << "\nInvalid input (" << option << "). Please try again." << endl; 
+        }  
+      }
     }
   }while(option != 'x' && option != 'X'); 
 
@@ -393,9 +389,21 @@ void acceptOrder(vector<MenuItem> &m)
   {
     cout << cClear;
     receipt(m, tip, subtotal);
+    cout << "\n\nProcessing.";
+    cout.flush();
+    sleep(1);
+
+    cout << cClear;
+    receipt(m, tip, subtotal);
+    cout << "\n\nProcessing..";
+    cout.flush();
+    sleep(1);
+
+    cout << cClear;
+    receipt(m, tip, subtotal);
     cout << "\n\nProcessing...";
     cout.flush();
-    sleep(3);
+    sleep(1);
 
     cout << cClear;
     receipt(m, tip, subtotal);
